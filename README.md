@@ -81,8 +81,17 @@ $ docker run --rm -it PBA/C-PHISHER
 - [**MR Z**]
 - [**DRAGO**]
 - [**KARNAN**]
-- [**GOST**]
-
+- [**GHOST**]
+- [**TAVORORA**]
+- [**JACK RIPPER**]
+- [**P64J4P471**]
+- [**EVIL DEAD**]
+- [**CYBER-X**]
+- [**SNIPER**]
+- [**MATHAN**]
+- [**TOXIC-4L!3n**]
+- [**BLACK-PANTHER**]
+- [**BARROZ**]
 
 ### Find Me on :
 <p align="left">
